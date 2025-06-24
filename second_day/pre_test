@@ -1,0 +1,1 @@
+pip install langchain langchain-openai langchain-openai langchain_chroma langchain-text-splitters langchain_community
